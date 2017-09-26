@@ -1,4 +1,4 @@
-# vipchat
-Update phần mềm VipChat
-Tác giả: Trường Nguyễn
-Email: truongnx28111994@gmail.com
+# Phần mềm VipChat
+Update phần mềm VipChat <br/>
+Tác giả: Trường Nguyễn <br/>
+Email: truongnx28111994@gmail.com <br/>
